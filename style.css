@@ -11,6 +11,7 @@
     
 }
 #barraLateral{
+    position: absolute;
     margin: -55vh -1.5vw;
     background-color: rgb(0, 0, 0);
     height: 150vh;
